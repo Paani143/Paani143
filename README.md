@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi this is [Pinakapaani Basina](https://github.com/Paani143) Student from Northwest Missouri State University!
 - 🔭 I’m currently working on Git Hub
-- 🌱 I’m currently learning Webapps
+- 🌱 I’m currently looking for Employment
 - 📫 How to reach me: convey2paani@gmail.com
 - ⚡ Fun fact: Chicken is love.
 
